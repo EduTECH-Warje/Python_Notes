@@ -1,7 +1,7 @@
 # Python_Notes
 "Python Notes and Resources"
 
-Welcome to the GitHub repository for Python Notes and Resources! This repository is dedicated to providing a comprehensive collection of Python programming notes, code snippets, and valuable resources for Python enthusiasts, beginners, and experienced developers alike.
+Welcome to the EduTECH GitHub repository for Python Notes and Resources! This repository is dedicated to providing a comprehensive collection of Python programming notes, code snippets, and valuable resources for Python enthusiasts, beginners, and experienced developers alike.
 
 🐍 About Python:
 Python is a versatile and powerful programming language known for its simplicity and readability. Whether you're a novice looking to learn Python from scratch or an experienced programmer seeking to enhance your Python skills, this repository has something for everyone.
